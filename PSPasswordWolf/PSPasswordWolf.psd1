@@ -30,7 +30,7 @@ CompanyName = 'Unknown'
 Copyright = '(c) Luke Leigh. All rights reserved.'
 
 # Description of the functionality provided by this module
-Description          = 'The New-PasswordWolf Password Function was created using Invoke-RestMethod to access the https://passwordwolf.com API and parse the JSON to harvest the generated passwords.
+Description          = 'The PasswordWolf Password Module was created using Invoke-RestMethod to access the https://passwordwolf.com API which then parses the JSON and harvests the generated passwords.
 	
 I have included all of the options and pre-configured the parameter defaults, replicating the website settings.
 
