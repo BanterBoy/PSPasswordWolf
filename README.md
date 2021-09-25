@@ -10,7 +10,7 @@ I have included all of the options and pre-configured the parameter defaults, re
 |---|---|---|---|
 |upper|off/on| |Turns the upper case characters on or off.|
 |lower|off/on| |Turns the lower case characters on or off.|
-|numbers|off/on |Turns numbers on or off.|
+|numbers|off/on| |Turns numbers on or off.|
 |special|off/on| |Turns special characters on or off.|
 |length|1-128|15|Set the password length.|
 |exclude|[string]|?!<>li1I08OB|Indicates which characters to exclude.|
